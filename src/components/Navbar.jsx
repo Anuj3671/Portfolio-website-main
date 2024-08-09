@@ -13,16 +13,16 @@ const Navbar = () => {
           <img src={logo} alt="logo" className='h-20 w-20 mx-4' />
         </div>
         <div className="m-8 flex items-center justify-center gap-4 text-3xl">
-          <a href="www.linkedin.com/in/prateekgupta8113" target="_blank" rel="noopener noreferrer">
+          <a href="https://www.linkedin.com/in/anuj-gupta-8baa73291/" target="_blank" rel="noopener noreferrer">
             <FaLinkedin />
           </a>
-          <a href="https://github.com/prateek8113" target="_blank" rel="noopener noreferrer">
+          <a href="https://github.com/Anuj3671" target="_blank" rel="noopener noreferrer">
             <FaGithub />
           </a>
-          <a href="https://twitter.com" target="_blank" rel="noopener noreferrer">
+          <a href="https://x.com/anuj9103" target="_blank" rel="noopener noreferrer">
             <FaTwitter />
           </a>
-          <a href="https://www.instagram.com/cruzprateek?igsh=ZWx4dXJyYzJlaDRz" target="_blank" rel="noopener noreferrer">
+          <a href="https://www.instagram.com/anuj_0212/" target="_blank" rel="noopener noreferrer">
             <FaInstagram />
           </a>
         </div>
