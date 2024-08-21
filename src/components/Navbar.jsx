@@ -2,7 +2,7 @@ import React from 'react';
 import logo from '../assets/AFLOGO.png';
 import { FaLinkedin } from "react-icons/fa";
 import { FaGithub } from "react-icons/fa";
-import { FaTwitter } from "react-icons/fa";  // Changed to FaTwitter from FaSquareXTwitter
+import { FaTwitter } from "react-icons/fa"; 
 import { FaInstagram } from "react-icons/fa";
 
 const Navbar = () => {
