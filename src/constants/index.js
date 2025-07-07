@@ -43,6 +43,6 @@ export const PROJECTS = [
 
 export const CONTACT = {
   address: "Ghaziabad, Uttar Pradesh, 201005",
-  phoneNo: "+91 8860517446",
+  phoneNo: "+91 9810971326",
   email: "agupta367@gmail.com",
 };
